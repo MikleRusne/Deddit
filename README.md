@@ -1,2 +1,2 @@
 # Deddit
-Hyperconvoluted DB
+Hyperconvoluted MySQL relational DB
